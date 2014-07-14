@@ -1,0 +1,59 @@
+#contact {
+    margin-top: 8px;
+}
+
+.popover {
+    border-radius: 5px;
+    border-width: 2px;
+    top: 7px !important;
+}
+
+.popover-content {
+    white-space:pre;
+    max-width: none;
+}
+
+.arrow {
+    top : 17% !important;
+}
+
+.item-wrapper {
+    background-color: #eee;
+    margin-bottom: 20px;
+    display: block;
+}
+
+.item-title {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 15px 20px;
+    background-color: #000000;
+    color: #999;
+}
+
+.item-title > button {
+    font-size: 1.2em;
+    background-color: lightgray;
+    color: #999;
+}
+
+.item-title > span {
+    margin: 5px auto;
+    height: inherit;
+    font-size: 1.5em;
+}
+
+.images {
+    border-color: #000000;
+    border-width: 20px;
+
+    max-width: 100vw;
+    /*background-color: red;*/
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    background-color: #000000;
+    padding: 5px !important;
+}
